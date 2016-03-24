@@ -1,0 +1,149 @@
+
+The following have been reloaded with a version change:
+  1) Boost/1.47.0 => Boost/1.52.0       3) R/2.15.1 => R/3.1.0
+  2) OpenMPI/1.4.3 => OpenMPI/1.4.4     4) TBB/4.1.0 => TBB/4.1.1.117
+
+# of processes is 1, # of elements in N is 100000000
+Generating took 1.934365 seconds.
+Selecting pivots took 0.000077 seconds.
+Binning took 0.640716 seconds.
+Distributing took 0.124507 seconds.
+Local sort took 29.564863 seconds.
+Gathering took 0.125521 seconds.
+Total time is 32.390049 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 2, # of elements in N is 100000000
+Generating took 0.956788 seconds.
+Selecting pivots took 0.047046 seconds.
+Binning took 1.007265 seconds.
+Distributing took 0.105699 seconds.
+Local sort took 13.235939 seconds.
+Gathering took 2.178215 seconds.
+Total time is 17.530952 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 4, # of elements in N is 100000000
+Generating took 0.498093 seconds.
+Selecting pivots took 0.018199 seconds.
+Binning took 0.919378 seconds.
+Distributing took 0.055020 seconds.
+Local sort took 7.492726 seconds.
+Gathering took 0.136983 seconds.
+Total time is 9.120399 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 8, # of elements in N is 100000000
+Generating took 0.268164 seconds.
+Selecting pivots took 0.006744 seconds.
+Binning took 0.863868 seconds.
+Distributing took 0.038290 seconds.
+Local sort took 3.328148 seconds.
+Gathering took 0.740587 seconds.
+Total time is 5.245801 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 16, # of elements in N is 100000000
+Generating took 0.134532 seconds.
+Selecting pivots took 0.011923 seconds.
+Binning took 0.791556 seconds.
+Distributing took 0.044994 seconds.
+Local sort took 1.933266 seconds.
+Gathering took 0.189108 seconds.
+Total time is 3.105379 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 32, # of elements in N is 100000000
+Generating took 0.186959 seconds.
+Selecting pivots took 0.007779 seconds.
+Binning took 1.055497 seconds.
+Distributing took 0.067042 seconds.
+Local sort took 1.114466 seconds.
+Gathering took 0.816228 seconds.
+Total time is 3.247971 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 1, # of elements in N is 1000000000
+Generating took 19.877798 seconds.
+Selecting pivots took 0.000089 seconds.
+Binning took 6.566312 seconds.
+Distributing took 1.362224 seconds.
+Local sort took 320.932855 seconds.
+Gathering took 1.255973 seconds.
+Total time is 349.995251 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 2, # of elements in N is 1000000000
+Generating took 9.921434 seconds.
+Selecting pivots took 0.000434 seconds.
+Binning took 10.275165 seconds.
+Distributing took 1.055424 seconds.
+Local sort took 155.573281 seconds.
+Gathering took 3.566081 seconds.
+Total time is 180.391819 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 4, # of elements in N is 1000000000
+Generating took 5.157170 seconds.
+Selecting pivots took 0.003964 seconds.
+Binning took 9.454152 seconds.
+Distributing took 0.509015 seconds.
+Local sort took 78.935483 seconds.
+Gathering took 1.988058 seconds.
+Total time is 96.047842 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 8, # of elements in N is 1000000000
+Generating took 2.653080 seconds.
+Selecting pivots took 0.345509 seconds.
+Binning took 8.496217 seconds.
+Distributing took 0.335769 seconds.
+Local sort took 36.473597 seconds.
+Gathering took 10.463409 seconds.
+Total time is 58.767581 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 16, # of elements in N is 1000000000
+Generating took 1.346646 seconds.
+Selecting pivots took 0.004785 seconds.
+Binning took 7.921643 seconds.
+Distributing took 0.326045 seconds.
+Local sort took 19.079151 seconds.
+Gathering took 4.773051 seconds.
+Total time is 33.451321 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 32, # of elements in N is 1000000000
+Generating took 0.717031 seconds.
+Selecting pivots took 0.645927 seconds.
+Binning took 11.877330 seconds.
+Distributing took 0.384661 seconds.
+Local sort took 13.999857 seconds.
+Gathering took 5.322348 seconds.
+Total time is 32.947154 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.016777
+Correct: all elements of the solution are in ascending order.
+
+

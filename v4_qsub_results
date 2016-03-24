@@ -1,0 +1,65 @@
+
+The following have been reloaded with a version change:
+  1) Boost/1.47.0 => Boost/1.52.0       3) R/2.15.1 => R/3.1.0
+  2) OpenMPI/1.4.3 => OpenMPI/1.4.4     4) TBB/4.1.0 => TBB/4.1.1.117
+
+# of processes is 2, # of elements in N is 100000000
+Generating took 0.993205 seconds.
+Selecting pivots took 0.000446 seconds.
+Binning took 1.021697 seconds.
+Distributing took 0.103775 seconds.
+Local sort took 13.979940 seconds.
+Gathering took 0.754276 seconds.
+Total time is 16.853339 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 4, # of elements in N is 100000000
+Generating took 0.496404 seconds.
+Selecting pivots took 0.007547 seconds.
+Binning took 0.880832 seconds.
+Distributing took 0.054339 seconds.
+Local sort took 7.171854 seconds.
+Gathering took 0.137702 seconds.
+Total time is 8.748678 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 8, # of elements in N is 100000000
+Generating took 0.257004 seconds.
+Selecting pivots took 0.009358 seconds.
+Binning took 0.818378 seconds.
+Distributing took 0.040236 seconds.
+Local sort took 3.730186 seconds.
+Gathering took 0.457730 seconds.
+Total time is 5.312892 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 16, # of elements in N is 100000000
+Generating took 0.133907 seconds.
+Selecting pivots took 0.008408 seconds.
+Binning took 0.757571 seconds.
+Distributing took 0.043750 seconds.
+Local sort took 1.976464 seconds.
+Gathering took 0.137531 seconds.
+Total time is 3.057631 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
+# of processes is 32, # of elements in N is 100000000
+Generating took 0.067107 seconds.
+Selecting pivots took 0.136794 seconds.
+Binning took 1.390868 seconds.
+Distributing took 0.062862 seconds.
+Local sort took 1.528981 seconds.
+Gathering took 0.448858 seconds.
+Total time is 3.635470 seconds.
+Min = 0.000000, Max = 1.000000, Avg = 0.167772
+Correct: all elements of the solution are in ascending order.
+
+
